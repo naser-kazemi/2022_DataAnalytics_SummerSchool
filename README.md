@@ -33,17 +33,12 @@ Graduates who get a passing grade in the course will be issued an official certi
      - [Theoretical Sessions](#theoretical-sessions)
      - [HandsOn Workshops](#handson-workshops)
      - [Projects](#projects)
-- [Rules and Code of Conduct](#rules-and-code-of-conduct)
 - [Certification and Referral to Companies](#certification-and-referral-to-companies)
-- [Networking](#networking)
-- [Feedback and Contact](#feedback-and-contact)
 - [Miscellaneous](#miscellaneous)
-     - [Developement Environments](#developement-environments)
      - [Things to Bring](#things-to-bring)
-     - [Considerations](#consideration)
      - [Food](#food)
      - [COVID-19](#covid-19)
-- [Who Are We?](#who-are-we?)
+- [Who Are We?](#who-are-we)
 
 
 <hr style="border:2px solid gray">
